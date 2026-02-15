@@ -126,3 +126,10 @@ with the provided test cases.
 - Add automated evaluation scripts
 - Improve citation granularity
 - Deploy the application
+
+---
+## Live Demo:
+https://agentic-project-5pqcrhidca7qffmdhyevnz.streamlit.app/
+
+
+
