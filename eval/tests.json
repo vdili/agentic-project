@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "task": "Summarize this document",
+    "documents": ["mini.txt"],
+    "expected": "Summary about AI systems, multiple agents, and LangGraph orchestration"
+  },
+  {
+    "id": 2,
+    "task": "List the key points from the document",
+    "documents": ["mini.txt"],
+    "expected": "AI systems, multi-agent workflow, LangGraph, testing document"
+  },
+  {
+    "id": 3,
+    "task": "What is the main topic of this document?",
+    "documents": ["mini.txt"],
+    "expected": "The document explains a multi-agent AI system and orchestration"
+  },
+  {
+    "id": 4,
+    "task": "Extract important concepts from the text",
+    "documents": ["mini.txt"],
+    "expected": "AI agents, LangGraph, orchestration, document processing"
+  },
+  {
+    "id": 5,
+    "task": "Give a short summary of the document",
+    "documents": ["mini.txt"],
+    "expected": "Short summary of the testing document about AI agents"
+  }
+]

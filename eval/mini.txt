@@ -1,0 +1,9 @@
+This document is used for testing the Agentic Assistant system.
+
+AI systems often use multiple agents to solve complex tasks.
+In this project, LangGraph is used to orchestrate planner, research, writer, and verifier agents.
+
+The system processes uploaded documents, retrieves relevant information,
+and generates grounded answers with proper citations.
+
+This file serves as a simple example for evaluation and testing purposes.
